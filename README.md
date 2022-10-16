@@ -20,15 +20,6 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/__byte" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-</p>
-
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/plasticine/100/000000/elephant.png"
