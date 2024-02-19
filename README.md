@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Armin Asefi</h1>
-<h3 align="center">Student at SHS3, Karaj🌟.</h3>
 
 <br>
 
@@ -12,11 +11,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="0xDeviI" /></p>
 
 
-- 🌱 I’m currently a freelancer & learning some development stuff.
+- 🌱 I'm currently focusing on my studies and building my own startup.
 
 - 📫 How to reach me **arminloveslinux@gmail.com**
-
-- ⚡ Fun fact :- be comfortable with machines, some near day in the future, they are much better friends than humans :)
 
 <br>
 
